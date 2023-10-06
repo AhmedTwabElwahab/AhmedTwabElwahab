@@ -1,9 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-![Snake animation](https://github.com/AhmedTwabElwahab/AhmedTwabElwahab/blob/output/snake.svg)
-
-<img src="https://raw.githubusercontent.com/AhmedTwabElwahab/AhmedTwabElwahab/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
