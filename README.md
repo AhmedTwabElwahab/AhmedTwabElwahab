@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="left">My name is Ahmed Tawab and I'm a Backend Developer, from Egypt</h6>
+<p align="left">My name is Ahmed Tawab and I'm a Backend Developer, from Egypt</p>
 
 ###
 
