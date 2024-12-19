@@ -5,15 +5,11 @@
 
 ###
 
-<p align="left">My name is Ahmed Tawab and I'm a Backend Developer, from Egypt</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
-Hi, I'm **Ahmed Tawab**, a passionate **Full Stack Developer** based in Riyadh, Saudi Arabia. With a background in commerce and a strong love for programming, I have developed extensive experience in designing and building robust software solutions. Over the past two years, I've honed my skills in various technologies, specializing in backend development using PHP, Laravel, and Node.js.
+Hi, I'm **Ahmed Tawab**, a passionate **Backend Developer** based in Riyadh, Saudi Arabia. With a background in commerce and a strong love for programming, I have developed extensive experience in designing and building robust software solutions. Over the past two years, I've honed my skills in various technologies, specializing in backend development using PHP, Laravel, and Node.js.
 
 I enjoy creating efficient and scalable applications that solve real-world problems. My expertise includes building RESTful APIs, ERP systems, e-commerce platforms, and multi-tenant applications. I am also well-versed in frontend technologies, making me a versatile developer capable of handling both sides of the stack.
 
