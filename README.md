@@ -29,7 +29,7 @@ Feel free to explore my projects and connect with me on [LinkedIn](https://www.l
 
 ### Contact
 
-- **Email**: ahmedtwababd@outlook.com | ahmedtwababd@gmail.com
+- **Email**: ahmedtwababd@gmail.com
 
 - **GitHub**: [AhmedTwabElwahab](https://github.com/AhmedTwabElwahab)
 
