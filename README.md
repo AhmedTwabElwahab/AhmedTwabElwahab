@@ -71,7 +71,7 @@ Feel free to explore my projects and connect with me on [LinkedIn](https://www.l
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" width="40" alt="gulp logo"  />
   <img width="12" />
-  <img src="https://cdn.brandfetch.io/ide68-31CH/w/820/h/852/theme/dark/symbol.png" height="40" width="40"   />
+  <img src="output/laravel.png" height="40" width="40" alt="Laravel" />
 </div>
 
 ###
