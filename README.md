@@ -37,8 +37,6 @@ Feel free to explore my projects and connect with me on [LinkedIn](https://www.l
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.brandfetch.io/ide68-31CH/w/820/h/852/theme/dark/symbol.png" height="40" width="40" alt="laravel logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" width="40" alt="phpstorm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo"  />
