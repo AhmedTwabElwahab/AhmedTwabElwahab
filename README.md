@@ -33,7 +33,6 @@ Feel free to explore my projects and connect with me on [LinkedIn](https://www.l
 
 - **GitHub**: [AhmedTwabElwahab](https://github.com/AhmedTwabElwahab)
 
-
 ###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="40" alt="php logo"  />
