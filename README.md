@@ -37,6 +37,8 @@ Feel free to explore my projects and connect with me on [LinkedIn](https://www.l
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="40" alt="php logo"  />
   <img width="12" />
+  <img src="/output/Laravel.png" height="40" width="40" alt="Laravel" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" width="40" alt="phpstorm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo"  />
@@ -70,8 +72,6 @@ Feel free to explore my projects and connect with me on [LinkedIn](https://www.l
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" width="40" alt="gulp logo"  />
-  <img width="12" />
-  <img src="/output/Laravel.png" height="40" width="40" alt="Laravel" />
 </div>
 
 ###
